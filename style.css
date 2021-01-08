@@ -1,0 +1,37 @@
+body{
+    background-color: #181818;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+
+}
+b{
+    color:white;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: #aaaaaa;
+    font-size: 18px;
+}
+.first{
+    padding: 0 25%;
+}
+.last-2{
+    padding: 0 25%;
+}
+div{
+    text-align: center;
+}
+ul{
+    text-align: left; 
+    list-style-position: inside; 
+    display: inline-block;
+    color: #aaaaaa;
+    font-size: 18px;
+
+}
